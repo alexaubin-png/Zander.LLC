@@ -1,0 +1,69 @@
+h1{
+text-align: center;
+}
+body{
+    margin: 0px;
+}
+.container{
+   
+}
+.navbar ul{
+    background-color: grey;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+background-color: black;
+}
+.navbar li{
+    float: left;
+}
+img{
+    float: left;
+}
+main{
+    margin: 20px;
+    font-family: monospace;
+    width: 200px;
+}
+.container2{
+font-size: 8rem;
+vertical-align: reverse;
+border-radius: 8px;
+
+
+}
+.box{
+width: 150px;
+height: 150px;
+border-radius: 8px;
+}
+
+#box1{
+    background-color: aquamarine;
+   text-align: center;
+}
+#box2{
+    background-color: lightgreen;
+    text-align: center;
+}
+#box3{
+    background-color: red;
+    text-align: center;
+}
+#box4{
+    background-color: lightblue;
+    text-align: center;
+}
+#box4:hover{
+background-color: black;
+}
